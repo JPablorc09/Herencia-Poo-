@@ -1,0 +1,7 @@
+T:\lenguajeC#\Herencia\Herencia\bin\Debug\Herencia.exe.config
+T:\lenguajeC#\Herencia\Herencia\bin\Debug\Herencia.exe
+T:\lenguajeC#\Herencia\Herencia\bin\Debug\Herencia.pdb
+T:\lenguajeC#\Herencia\Herencia\obj\Debug\Herencia.csproj.AssemblyReference.cache
+T:\lenguajeC#\Herencia\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+T:\lenguajeC#\Herencia\Herencia\obj\Debug\Herencia.exe
+T:\lenguajeC#\Herencia\Herencia\obj\Debug\Herencia.pdb
